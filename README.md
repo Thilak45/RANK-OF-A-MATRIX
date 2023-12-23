@@ -24,6 +24,7 @@ A=np.array([[3,2,5],[1,1,2],[3,3,6]])
 rank = np.linalg.matrix_rank(A)
 print(rank)
 ```
+
 ## Output:
 ![output5](https://github.com/Thilak45/RANK-OF-A-MATRIX/assets/138849161/94c2157c-e645-4c0b-a166-d469e21e6cdf)
 
